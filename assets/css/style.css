@@ -6,7 +6,7 @@ body {
 
 body {
     height: 100%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
     font-weight: 300;
     padding: 0;
     margin: 0;
@@ -140,7 +140,7 @@ p {
 }
 
 a {
-    color: #cc0000;
+    color: #b31b1a;
     outline: 0;
     font-weight: bold;
     -webkit-transition: all .8s ease;
@@ -298,8 +298,8 @@ input[type="search"]::-webkit-search-decoration {
 }
 
 .btn-warning {
-    color: #cc0000;
-    border-color: #cc0000;
+    color: #b31b1a;
+    border-color: #b31b1a;
 }
 
 .btn-danger {
@@ -481,7 +481,7 @@ fieldset[disabled] .btn-warning:active,
 .btn-warning.active[disabled],
 fieldset[disabled] .btn-warning.active {
     background-color: rgba(0, 0, 0, 0);
-    border-color: #cc0000;
+    border-color: #b31b1a;
 }
 
 .input-group-addon {
@@ -492,8 +492,8 @@ fieldset[disabled] .btn-warning.active {
 
 .btn-primary {
     color: #FFF;
-    background-color: #cc0000;
-    border-color: #cc0000;
+    background-color: #b31b1a;
+    border-color: #b31b1a;
     border-radius: 1px;
     padding: 10px 20px;
     font-weight: 600;
@@ -518,7 +518,7 @@ fieldset[disabled] .btn-warning.active {
 .btn-primary.active,
 .btn-primary:active:focus,
 .open>.dropdown-toggle.btn-primary {
-    color: #cc0000;
+    color: #b31b1a;
     background-color: #313538;
     border-color: #282829;
     font-weight: 600;
@@ -527,9 +527,9 @@ fieldset[disabled] .btn-warning.active {
 .btn-default {
     border-radius: 1px;
     padding: 10px 20px;
-    border: 1px solid #cc0000;
+    border: 1px solid #b31b1a;
     color: #000;
-    background-color: #cc0000;
+    background-color: #b31b1a;
     border-color: #F0F0F0;
     font-weight: 600;
 }
@@ -540,7 +540,7 @@ fieldset[disabled] .btn-warning.active {
 .btn-default.active,
 .open>.dropdown-toggle.btn-default {
     color: #000;
-    background-color: #cc0000;
+    background-color: #b31b1a;
     border-color: #F0F0F0;
     font-weight: 600;
 }
@@ -587,7 +587,7 @@ fieldset[disabled] .btn-warning.active {
 }
 
 .form-inline input[type=submit] {
-    background: #cc0000;
+    background: #b31b1a;
     color: #fff;
     height: 40px;
     width: 90px;
@@ -699,7 +699,7 @@ fieldset[disabled] .btn-warning.active {
 
 .search-btn,
 .toggle-btn {
-    background-color: #cc0000;
+    background-color: #b31b1a;
     color: #333;
     font-size: 16px;
     border: 1px solid #EAE9E9;
@@ -769,7 +769,7 @@ fieldset[disabled] .form-control {
 }
 
 .label-warning {
-    border-color: #cc0000;
+    border-color: #b31b1a;
     color: #730099F;
 }
 
@@ -810,7 +810,7 @@ label small {
 
 .label-warning.label-fill,
 .progress-bar-warning {
-    background-color: #cc0000;
+    background-color: #b31b1a;
 }
 
 .label-danger.label-fill,
@@ -867,8 +867,8 @@ label small {
 }
 
 .input-group-btn .btn {
-    background-color: #cc0000;
-    border-color: #cc0000;
+    background-color: #b31b1a;
+    border-color: #b31b1a;
     border-radius: 0px;
     height: 44px;
     color: #FFF;
@@ -932,7 +932,7 @@ label small {
 .pagination.ct-orange>.active>span:hover,
 .pagination.ct-orange>.active>a:focus,
 .pagination.ct-orange>.active>span:focus {
-    background-color: #cc0000;
+    background-color: #b31b1a;
 }
 
 .nav-pills.ct-red>li.active>a,
@@ -963,8 +963,8 @@ label small {
 }
 
 .nav-pills.ct-orange>li>a {
-    border: 1px solid #cc0000;
-    color: #cc0000;
+    border: 1px solid #b31b1a;
+    color: #b31b1a;
 }
 
 .nav-pills.ct-red>li>a {
@@ -1069,7 +1069,7 @@ label small {
 
 .navbar-default .navbar-nav>li>a.active:after {
 
-    background-color: #cc0000;
+    background-color: #b31b1a;
     bottom: -24px;
     content: "";
     height: 5px;
@@ -1080,7 +1080,7 @@ label small {
 }
 
 .navbar-default .navbar-nav>li>a::after {
-    background-color: #cc0000;
+    background-color: #b31b1a;
     bottom: -24px;
     content: "";
     height: 5px;
@@ -1122,12 +1122,12 @@ label small {
 }
 
 .nav-button.login {
-    background-color: #cc0000;
+    background-color: #b31b1a;
     margin-right: 5px;
 }
 
 .nav-button:hover {
-    background-color: #cc0000;
+    background-color: #b31b1a;
 
 }
 
@@ -1167,7 +1167,7 @@ label small {
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
-    border-color: transparent transparent #cc0000;
+    border-color: transparent transparent #b31b1a;
     border-style: solid;
     border-width: 4px;
     color: #666666;
@@ -1286,7 +1286,7 @@ label small {
 }
 
 .navbar .yamm-content ul li a:hover {
-    color: #cc0000;
+    color: #b31b1a;
     text-decoration: none;
 }
 
@@ -1462,7 +1462,7 @@ label small {
 }
 
 .slider .owl-theme .owl-controls .owl-page span {
-    background: #cc0000;
+    background: #b31b1a;
 }
 
 /* Top Header */
@@ -1471,11 +1471,17 @@ label small {
 }
 
 .header-connect {
-    padding-top: 10px;
+    padding-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-image: url("../../assets/img/header12.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .header-call p {
-    color: #666666;
+    color: #ba0e0e;
 }
 
 .header-call p span {
@@ -1500,7 +1506,14 @@ label small {
 }
 
 .header-social ul li a:hover {
-    color: #cc0000;
+    color: #b31b1a;
+}
+
+.forgot {
+    margin-right: 0px;
+    margin-left: 10px;
+    font-size: 17px;
+    font-weight: 900;
 }
 
 
@@ -1539,11 +1552,11 @@ page-header
 }
 
 .layout-switcher a:hover {
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 .layout-switcher .active {
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 .layout-switcher {
@@ -1552,7 +1565,7 @@ page-header
 }
 
 .search-widget fieldset .largesearch-btn {
-    background-color: #cc0000;
+    background-color: #b31b1a;
     font-size: 16px;
     border: 1px solid #EAE9E9;
     width: 100%;
@@ -1616,7 +1629,7 @@ Asside widgets CSS
 .panel.sidebar-menu .panel-heading h4,
 .panel.sidebar-menu .panel-heading h5 {
     display: inline-block;
-    border-bottom: solid 3px #cc0000;
+    border-bottom: solid 3px #b31b1a;
     line-height: 1.1;
     margin-bottom: 0;
     padding-bottom: 10px;
@@ -1732,7 +1745,7 @@ Asside widgets CSS
     padding: 5px;
     border: solid 1px #eeeeee;
     border-radius: 0;
-    color: #cc0000;
+    color: #b31b1a;
     margin: 5px 5px 5px 0;
     text-transform: uppercase;
     letter-spacing: 0.08em;
@@ -1741,9 +1754,9 @@ Asside widgets CSS
 }
 
 .panel.sidebar-menu ul.tag-cloud li a:hover {
-    color: #cc0000;
+    color: #b31b1a;
     text-decoration: none;
-    border-color: #cc0000;
+    border-color: #b31b1a;
 }
 
 .panel.sidebar-menu ul.popular,
@@ -2007,7 +2020,7 @@ Asside widgets CSS
 }
 
 .testimonial .owl-theme .owl-controls .owl-page span {
-    background: #cc0000;
+    background: #b31b1a;
 }
 
 .client-text {
@@ -2219,7 +2232,7 @@ proerty-th
 
 .properties-page .proerty-th .proerty-price {
     font-weight: 600;
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 .proerty-th .proerty-item .item-entry h5 {
@@ -2340,7 +2353,7 @@ proerty-th-list
 
 .proerty-th-list .proerty-price {
     font-weight: 600;
-    color: #cc0000;
+    color: #b31b1a;
     font-size: 25px;
 }
 
@@ -2441,12 +2454,12 @@ recent-property-widget
 }
 
 .recent-property-widget ul li .property-seeker .b-1 {
-    background-color: #cc0000;
+    background-color: #b31b1a;
     padding: 0px 6px;
 }
 
 .recent-property-widget ul li .property-seeker .b-2 {
-    background-color: #cc0000;
+    background-color: #b31b1a;
     padding: 0px 6px;
 }
 
@@ -2523,8 +2536,8 @@ single property page
 
 .favorite-and-print .add-to-fav:hover,
 .favorite-and-print .printer-icon:hover {
-    color: #cc0000;
-    border-color: #cc0000;
+    color: #b31b1a;
+    border-color: #b31b1a;
 }
 
 .favorite-and-print .add-to-fav i,
@@ -2556,7 +2569,7 @@ single property page
 }
 
 .single-property-header .property-price {
-    color: #cc0000;
+    color: #b31b1a;
     font-size: 30px;
     letter-spacing: 1.5px;
     right: 0px;
@@ -2570,7 +2583,7 @@ single property page
 
 .s-property-title {
     margin-bottom: 15px;
-    color: #cc0000;
+    color: #b31b1a;
     font-size: 18px;
 }
 
@@ -2718,7 +2731,7 @@ single property page
 
 .property-features ul li a::after {
     content: "/";
-    color: #cc0000;
+    color: #b31b1a;
     font-weight: bold;
     padding-left: 5px;
     font-size: 14px;
@@ -2791,7 +2804,7 @@ single property page
 
 .dealer-action a::after {
     content: "/";
-    color: #cc0000;
+    color: #b31b1a;
     font-weight: 700;
     font-size: 20px;
     margin: 4px;
@@ -2830,7 +2843,7 @@ Welcom
 .welcome-estate:hover .welcome-icon {
     color: #FFF;
     border: 2px solid transparent;
-    background-color: #cc0000;
+    background-color: #b31b1a;
 }
 
 .welcome_text {
@@ -2949,8 +2962,8 @@ count-area
     padding: 2px 15px;
     text-transform: uppercase;
     margin: 0px;
-    border-left: 2px solid #cc0000;
-    border-right: 2px solid #cc0000;
+    border-left: 2px solid #b31b1a;
+    border-right: 2px solid #b31b1a;
     display: inline-block;
 }
 
@@ -3055,7 +3068,7 @@ count-area
 }
 
 .box-tree .item-tree-icon i:hover {
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 .box-for {
@@ -3114,7 +3127,7 @@ count-area
 }
 
 .slider-selection {
-    background: #cc0000;
+    background: #b31b1a;
 }
 
 .search-form .dropdown-menu>.active>a,
@@ -3122,7 +3135,7 @@ count-area
 .dropdown-menu>.active>a:focus {
     color: #FFF;
     text-decoration: none;
-    background-color: #cc0000;
+    background-color: #b31b1a;
     outline: 0px none;
 }
 
@@ -3241,7 +3254,7 @@ blog
 .nav-pills>li.active>a:hover,
 .nav-pills>li.active>a:focus {
     color: #FFF;
-    background-color: #cc0000;
+    background-color: #b31b1a;
 }
 
 .nav-pills>li>a {
@@ -3283,7 +3296,7 @@ blog
     text-transform: uppercase;
     margin-bottom: 15px;
     background: transparent none repeat scroll 0% 0%;
-    border-bottom: 2px solid #cc0000;
+    border-bottom: 2px solid #b31b1a;
     font-size: 20px;
     line-height: 30px;
 }
@@ -3302,7 +3315,7 @@ blog
 
 .login-social:hover,
 .login-social:focus {
-    background-color: #cc0000;
+    background-color: #b31b1a;
 }
 
 
@@ -3361,7 +3374,7 @@ blog
 
 .error-page .error-title {
     font-size: 11em;
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 .fqa-title::before {
@@ -3370,7 +3383,7 @@ blog
     width: 24px;
     height: 24px;
     content: "";
-    color: #cc0000;
+    color: #b31b1a;
     font-size: 16px;
     line-height: 24px;
     text-align: center;
@@ -3535,13 +3548,13 @@ blog
 }
 
 .footer h4 span {
-    border-bottom: 3px solid #cc0000;
+    border-bottom: 3px solid #b31b1a;
 }
 
 .footer-title-line {
     width: 100px;
     height: 2px;
-    background: #cc0000;
+    background: #b31b1a;
     margin: 0px 0px 33px;
     position: relative;
     top: -2px;
@@ -3583,12 +3596,12 @@ ul.footer-adress li {
 }
 
 .footer ul li a:hover {
-    color: #cc0000;
+    color: #b31b1a;
     text-decoration: none;
 }
 
 .footer-menu li {
-    border-bottom: 1px solid #cc0000;
+    border-bottom: 1px solid #b31b1a;
 }
 
 .footer-copy span {
@@ -3621,7 +3634,7 @@ ul.footer-blog li {
     font-size: 13px;
     text-transform: capitalize;
     font-weight: 600;
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 .footer-blog .blg-entry h6 {
@@ -3631,7 +3644,7 @@ ul.footer-blog li {
 
 .footer-blog .blg-date {
     color: #FFF;
-    background-color: #cc0000;
+    background-color: #b31b1a;
     padding: 2px 3px;
     font-size: 11px;
     position: relative;
@@ -3673,8 +3686,8 @@ ul.footer-blog li {
     font-size: 14px;
     margin-left: -17px;
     z-index: 99;
-    background-color: #cc0000;
-    border-color: #cc0000;
+    background-color: #b31b1a;
+    border-color: #b31b1a;
 }
 
 .footer .subscribe:hover {
@@ -3694,13 +3707,13 @@ ul.footer-blog li {
 }
 
 .social ul li a:hover {
-    color: #cc0000;
+    color: #b31b1a;
     order-color: #868686;
     background-color: #868686;
 }
 
 .social ul li a:hover i {
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 .social ul li a {
@@ -3737,7 +3750,7 @@ ul.footer-blog li {
 }
 
 .bottom-menu ul li a:hover {
-    color: #cc0000;
+    color: #b31b1a;
 }
 
 /* Preloader */
